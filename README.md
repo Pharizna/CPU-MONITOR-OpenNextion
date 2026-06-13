@@ -6,7 +6,7 @@
 # CPU‑MONITOR‑OpenNextion
 ## 🖥️ Vista del panel en Open Nextion
 
-![CPU-MONITOR en Open Nextion](images/cpu-monitor.jpg)
+![CPU-MONITOR en Open Nextion](cpu-monitor.jpg)
 
 
 CPU‑MONITOR es un proyecto en Arduino diseñado para mostrar en una pantalla Open Nextion los datos internos del NestDisk, publicados previamente en Home Assistant mediante MQTT. El objetivo es ofrecer un panel visual autónomo, fluido y moderno que permita consultar en tiempo real el estado del sistema.
