@@ -18,7 +18,7 @@ El proyecto nació durante la revisión del NestDisk, cuando aprendimos a accede
 - Visualización en tiempo real de carga de CPU, temperatura, memoria y otros datos del NestDisk.
 - Comunicación mediante MQTT para integrarse con Home Assistant.
 - Interfaz gráfica basada en LVGL para animaciones y widgets fluidos.
-- Código escrito en Arduino y organizado en módulos comentados dentro del `.ino`.
+- Código escrito en Arduino y organizado en módulos comentados dentro del fichero `.ino`.
 - Compatible con pantallas Open Nextion basadas en ESP32‑S3.
 
 ## 📁 Contenido del repositorio
