@@ -4,7 +4,7 @@
 // WIFI
 // ===============================
 #define WIFI_SSID   "Pharizna"
-#define WIFI_PASS   "my-wifi-passs"
+#define WIFI_PASS   "my-wifi-pass"
 
 // ===============================
 // MQTT
