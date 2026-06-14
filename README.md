@@ -24,14 +24,17 @@ El proyecto nació durante la revisión del NestDisk, cuando aprendimos a accede
 ## 📁 Contenido del repositorio
 
 - `CPU-MONITOR.ino` — Archivo principal del proyecto, con comentarios que describen los módulos internos.
-- `config/` — Parámetros de conexión MQTT y ajustes opcionales.
 - `README.md` — Este documento.
+- `cpu-monitor.jpg` - CPU - MONITOR en funcionamiento
+- `logo.png`,`logo_flat.png`, `logo_flat.h`  — Logo de PcDeMaNo y ficheros asociados para 'incrustarlo' en Arduino.
+- `secrets.h` — Parámetros de conexión WiFi y MQTT.
+
 
 ## 🧩 Requisitos
 
 - Pantalla Open Nextion con ESP32‑S3.
 - Arduino IDE funcionando en un entorno compatible (recomendado: Debian o Linux).
-- Broker MQTT accesible (por ejemplo, el de Home Assistant).
+- Broker MQTT accesible (por ejemplo, Mosquitto el de Home Assistant).
 - NestDisk configurado para publicar métricas del sistema.
 
 ## 🚀 Instalación y uso
